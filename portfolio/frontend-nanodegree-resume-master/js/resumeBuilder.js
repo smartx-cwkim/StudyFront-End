@@ -61,7 +61,7 @@ if(bio.skills.length > 0) {
 
 
 var jobs1 = {"employer":"Sherlock", "title":"servant", "location":"london", "dates":"in progress", "description":"string"};
-var jobs2 = {"employer":"JongWon Kim", "title":"servant", "location":"GwangJu", "dates":"in progress", "description":"bald"};
+var jobs2 = {"employer":"Jingyu Kim", "title":"servant", "location":"Nagoya", "dates":"in progress", "description":"hulk"};
 var work = {
     "jobs" : {
         jobs1,
@@ -146,7 +146,7 @@ function inName(string) {
     return result;
 }
 
-var project = {'title':'koren', 'dates':'2017.07.25', 'description':'fuck!', 'image':"/images/fry.jpg"};
+var project = {'title':'koren', 'dates':'2017.07.25', 'description':'shut up and take my money picture?', 'image':"/images/fry.jpg"};
 $('#projects').append(HTMLprojectStart);
 
 
